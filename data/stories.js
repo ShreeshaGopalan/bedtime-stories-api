@@ -46,5 +46,29 @@ export const stories = [
     imageUrl: "/images/tortoise-and-hare.jpg",
     audioUrl: "/audio/tortoise-and-hare.mp3",
   },
+  {
+    id:7,
+    title: "Little Red Riding Hood",
+    story: "Once upon a time, there was a cheerful little girl called Little Red Riding Hood. She loved wearing her bright red cape wherever she went. One sunny morning, her mother asked her to deliver a basket of yummy treats to her grandmother.“Remember,” said her mother, “stay on the path and don’t talk to strangers!” Red Riding Hood skipped happily along the forest path—but just then, a clever wolf popped out from behind a tree. “Hello, little girl! Where are you going?” he asked, wiggling his tail. “To my grandmother’s house,” Red Riding Hood replied, forgetting her mother’s warning. The wolf grinned mischievously and ran ahead. He knocked on grandmother’s door and, with a little trickery, hid her in a closet. Then he put on her nightcap and climbed into bed. When Red Riding Hood arrived, she tilted her head. “Grandmother, what big eyes you have!” “All the better to see you with!” the wolf replied, trying not to sneeze. “And what big ears you have!” “All the better to hear you with!” “And what big teeth you have!” “All the better… to gobble you up!” Just as the wolf jumped, a brave woodcutter who was chopping nearby heard the noise. He burst in, scared the wolf away, and rescued Red Riding Hood’s grandmother. Red Riding Hood hugged her grandmother tight. “I promise, I’ll always stay on the path and never talk to strangers!” And from that day on, she skipped through the forest safely—and a little wiser too.", 
+    moral: "Listen to good advice and stay safe; curiosity is fun, but caution is smarter!",
+    imageUrl: "/images/little-red-riding-hood.png",
+    audioUrl: "/audio/little-red-riding-hood.mp3",
+  },
+  {
+    id:8,
+    title: "Cinderella",
+    story: "Once upon a time, there was a kind girl named Cinderella. She lived with her stepmother and stepsisters, who were very mean to her. She had to do all the chores—cleaning, cooking, and scrubbing the floors—every single day. One day, the King announced a grand ball. Everyone was invited, including Cinderella’s stepsisters. Cinderella wished she could go, but her stepmother said, “You’re not going anywhere!” Suddenly, her Fairy Godmother appeared. With a wave of her wand, she turned a pumpkin into a sparkling carriage, mice into horses, and Cinderella’s rags into a beautiful gown! “But remember,” said the Fairy Godmother, “you must be home before midnight.” At the ball, everyone admired Cinderella, especially the Prince. They danced all night, but when the clock struck twelve, Cinderella ran away, leaving behind a single glass slipper. The Prince searched the kingdom to find the girl whose foot fit the slipper. When he came to Cinderella’s house, her stepsisters tried it, but it didn’t fit. Finally, Cinderella tried it—and it fit perfectly! She and the Prince were married and lived happily ever after.", 
+    moral: "Kindness, patience, and staying true to yourself will always lead to happiness.",
+    imageUrl: "/images/cinderella.jpg",
+    audioUrl: "/audio/cinderella.mp3",
+  },
+  {
+    id:9,
+    title: "Goldilocks and the Three Bears",
+    story: "Once upon a time, there were three bears: Papa Bear, Mama Bear, and Baby Bear. They lived happily in a cozy little house in the forest. One morning, they made porridge for breakfast. “It’s too hot!” said Papa Bear. “It’s too cold!” said Mama Bear. “But mine is just right!” said Baby Bear.After breakfast, the bears went for a walk in the forest while their porridge cooled.Meanwhile, a curious little girl named Goldilocks wandered by. She saw the bears’ house and, feeling adventurous, went inside. She tried Papa Bear’s chair. “Too hard!” she said. She tried Mama Bear’s chair. “Too soft!” She tried Baby Bear’s chair. “Just right!”—but it broke under her! Next, she tasted the porridge. “Too hot! Too cold! Ah, this one is just right!” she said, and ate it all. Feeling tired, Goldilocks tried the beds. Papa Bear’s bed was too hard, Mama Bear’s was too soft, but Baby Bear’s bed was just right—and she fell fast asleep. Soon, the bears returned. “Someone’s been eating my porridge!” growled Papa Bear. “Someone’s been sitting in my chair!” said Mama Bear. “Someone’s been sleeping in my bed—and she’s still there!” cried Baby Bear. Goldilocks woke up, saw the three bears, and ran out of the house as fast as she could, promising never to go into someone else’s home without permission. ",
+    moral: "Respect others’ belongings and always ask before taking something that isn’t yours.",
+    imageUrl: "/images/goldilocks-and-three-bears.jpg",
+    audioUrl: "/audio/goldilocks-and-three-bears.mp3",
+  },
 
 ]
