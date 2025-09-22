@@ -4,7 +4,7 @@ export const stories = [
     title: "Jack and the BeanStalk",
     story: "Jack lived with his mother in a little cottage. They were very poor and had nothing left except a cow. One day, Jack’s mother told him to sell the cow at the market. On his way, Jack met a man who offered him five magic beans for the cow. Jack agreed and took the beans home. His mother was angry and threw the beans out of the window. But overnight, something magical happened—a giant beanstalk grew up into the sky! The next morning, Jack climbed it and found himself in the land of a giant. He saw a castle, golden eggs, and a harp that could sing by itself. Jack carefully took some treasures back home. But when the giant chased him, Jack quickly slid down the beanstalk. His mother cut it down with an axe, and the giant fell. From then on, Jack and his mother lived happily, no longer poor.",
     moral: "Courage and cleverness can help you in tough times.",
-    imageUrl: "/images/jack-and-beanstalk.jpg",
+    imageUrl: "/images/jack-and-beanstalk.png",
     audioUrl: "/audio/jack-and-beanstalk.mp3",
   },
   {
@@ -12,7 +12,7 @@ export const stories = [
     title: "The Three Little Pigs",
     story: "Once upon a time, three little pigs left their mother’s house to build homes of their own. The first pig, who didn’t like hard work, quickly made a house of straw. The second pig built his home out of sticks, thinking it was stronger but still easy to build. The third pig worked carefully, laying bricks one by one to make a strong house.One day, a big, bad wolf came along. He was hungry and wanted to eat the pigs. He went to the straw house and huffed and puffed until the whole house blew down. The frightened pig ran to his brother’s stick house. But the wolf huffed and puffed again, and down went the stick house too! Both pigs ran to their brother’s brick house. The wolf huffed and puffed, but no matter how hard he tried, the strong brick house would not fall. Tired and angry, the wolf gave up and ran away, never to return. The three pigs lived safely and happily in the brick house.",
     moral: "Hard work, patience, and planning lead to safety and success.",
-    imageUrl: "/images/three-littile-pigs.jpg",
+    imageUrl: "/images/three-little-pigs.jpg",
     audioUrl: "/audio/three-little-pigs.mp3",
   },
   {
@@ -20,7 +20,7 @@ export const stories = [
     title: "Rapunzel",
     story: "Long ago, a beautiful girl named Rapunzel was taken from her parents by a wicked witch. The witch locked her in a tall tower with no doors and only one high window. Rapunzel grew up with hair as golden as the sun, so long it reached the ground. Every day, the witch would call, “Rapunzel, Rapunzel, let down your hair!” and climb up. Rapunzel felt lonely and dreamed of the outside world. One day, a kind prince was riding through the forest when he heard Rapunzel singing from the tower. He was enchanted by her voice. He saw the witch climb the tower using Rapunzel’s hair and decided to try the same. Calling out the same words, he climbed up and met Rapunzel. The two became friends, and soon they fell in love. Together, they planned her escape. When the witch discovered them, she grew angry, but Rapunzel’s courage and the prince’s love helped her break free. Finally, Rapunzel was no longer trapped, and she lived happily ever after in freedom.",
     moral: "Love, bravery, and hope can break even the strongest walls.",
-    imageUrl: "/images/rapunzel.jpg",
+    imageUrl: "/images/rapunzel.png",
     audioUrl: "/audio/rapunzel.mp3",
   },
   {
@@ -28,7 +28,7 @@ export const stories = [
     title: "The Lion and the Mouse",
     story: "In a quiet forest, a mighty lion was resting under a tree. A tiny mouse scurried across his paw, waking him up. With a roar, the lion caught the mouse in his big claws. The mouse squeaked, “Please let me go, and one day I will help you!” The lion laughed. “How can such a little mouse help a big lion like me?” But he let the mouse go anyway. A few days later, hunters set a trap for the lion and caught him in a strong net. The lion roared and struggled, but the ropes held tight. Hearing his cries, the mouse hurried over. Without fear, it chewed and chewed the ropes until the lion was free. The lion looked at the mouse with gentle eyes and said, “I was wrong. Even the smallest creature can be the greatest friend.” From that day on, the lion and the mouse became the best of friends.",
     moral: "Kindness is never wasted, and even the smallest can help the strongest.",
-    imageUrl: "/images/lion-and-mouse.jpg",
+    imageUrl: "/images/lion-and-mouse.png",
     audioUrl: "/audio/lion-and-mouse.mp3",
   },
   {
@@ -36,14 +36,14 @@ export const stories = [
     title: "The Ant and the Grasshopper ",
     story: "Once upon a time, in a sunny meadow, lived a busy little ant and a cheerful grasshopper. All summer, the ant worked hard—carrying grains of food to store in her tiny home. The grasshopper, on the other hand, spent his days singing, dancing, and playing under the warm sun. When winter came, the ground was covered with snow. The ant stayed cozy inside her home, enjoying the food she had saved. The grasshopper, cold and hungry, went to the ant. “Please, can you share some food with me?” he asked. The ant gave him a kind smile and shared a little meal, but she gently reminded him, “Next summer, don’t forget to work as well as play.” The grasshopper learned that it’s important to enjoy life but also prepare for the days ahead.",
     moral: "Work hard today so tomorrow can be safe and happy.",
-    imageUrl: "/images/ant-and-grasshopper.jpg",
+    imageUrl: "/images/ant-and-grasshopper.png",
     audioUrl: "/audio/ant-and-grasshopper.mp3",
   },
   {
     id:6,
     title: "The Tortoise and the Hare",
     story: "In a green forest lived a speedy hare who loved to boast. “I am the fastest animal here!” he shouted. The gentle tortoise grew tired of hearing this and said, “Let’s have a race.” The hare laughed loudly but agreed.The race began. The hare ran so quickly that he soon left the tortoise far behind. Feeling confident, he thought, “I’ll take a nap. The tortoise is too slow to catch up.” While the hare slept, the tortoise kept moving slowly, step by step.When the hare finally woke up, he ran as fast as he could—but it was too late. The tortoise had already crossed the finish line. Everyone cheered, and the hare hung his head in shame.", moral: "Slow and steady wins the race.",
-    imageUrl: "/images/tortoise-and-hare.jpg",
+    imageUrl: "/images/tortoise-and-hare.png",
     audioUrl: "/audio/tortoise-and-hare.mp3",
   },
   {
